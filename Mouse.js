@@ -11,5 +11,5 @@ Mouse.prototype.die = function(){
 //Xem git diff  sau khi them dong nay 
 //ca dong nay nua 
 
-module.exorts = Mouse;
+module.exports = Mouse;
 
